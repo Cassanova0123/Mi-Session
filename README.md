@@ -145,11 +145,12 @@ class MissileGuide : ObjetSpécial {}
     public void SetPlayerNames(List<string> newPlayerNames) {
         playerNames = newPlayerNames;
 
-		https://github.com/Cassanova0123/Mi-Session.git
+
         
     }
 
     public List<string> GetPlayerNames() {
         return playerNames;
     }
+    
 
